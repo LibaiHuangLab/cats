@@ -1,4 +1,4 @@
-module https://github.com/LibaiHuangLab/cats
+module github.com/LibaiHuangLab/cats
 
 go 1.19
 
